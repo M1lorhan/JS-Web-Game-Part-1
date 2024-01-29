@@ -12,4 +12,6 @@ pineTree.style.left = '450px'
 pineTree.style.bottom = '200px'
 document.body.append(pineTree)
 
-function addItems()
+function newImage(document.createElement(pineTree, position = fixed, left = '450px', bottom = '200px'))
+
+
